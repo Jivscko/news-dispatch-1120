@@ -4,9 +4,9 @@ One 1024x1024 PNG that sums up the world news of Friday, 20 November 2026,
 drawn as a newspaper front page: masthead, date line, a lead story and a
 three-by-three grid of the day's other dispatches.
 
-[![make.fun entry](https://img.shields.io/badge/make.fun-news--image--20261120-1f6feb)](https://make.fun/r/s9rnvy2k)
-[![owner](https://img.shields.io/badge/owner-Jivscko-2f8f46)](https://make.fun/u/Jivscko)
-[![repo](https://img.shields.io/badge/repo-news--dispatch--1120-b3262c)](https://github.com/Jivscko/news-dispatch-1120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Jivscko/news-dispatch-1120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Jivscko/news-dispatch-1120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 ## The day
 
