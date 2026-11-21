@@ -3,6 +3,7 @@
 
 Copies entry.png byte-for-byte into $MAKEFUN_OUTPUT_DIR (default /output),
 verifies the copy is identical, prints OK. Standard library only, no network.
+This runner copies the finished front page to the make.fun output directory.
 """
 
 import hashlib
@@ -41,6 +42,8 @@ def main() -> int:
 
     try:
         os.makedirs(output_dir, exist_ok=True)
+        # copyfile only copies bytes; the size/sha256 read-back below is what
+        # proves the copy is byte-identical to the source.
         shutil.copyfile(source, target)
     except OSError as exc:
         print("ERROR: could not write %s: %s" % (target, exc), file=sys.stderr)
